@@ -106,8 +106,7 @@ export const SERVICES: Service[] = [
       "Subterranean and drywood deemak elimination using Govt. approved termiticide. We drill 45° holes along skirting, inject heavy-duty solution under pressure and seal seamlessly.",
     longDescription:
       "Termites silently eat expensive wardrobes, door frames and modular wood. NIPC certified exterminators use high-pressure Drill-Fill-Seal technology to stop the queen and colony with an assured 7-year written warranty card.",
-    image:
-      "https://images.pexels.com/photos/18021337/pexels-photo-18021337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    image: "/images/termite-treatment.jpg",
     icon: "termite",
     priceFrom: 1899,
     duration: "2–4 hours",
@@ -167,8 +166,7 @@ export const SERVICES: Service[] = [
       "Protects homes, gardens, society compounds and commercial halls from dengue, malaria and chikungunya mosquitoes with WHO-approved pyrethroids.",
     longDescription:
       "Our mosquito team utilizes pulse-jet thermal foggers and cold ULV misting machines for bushes, basement parking, open drains, and lawn perimeters to break the mosquito breeding cycle.",
-    image:
-      "https://images.pexels.com/photos/5499416/pexels-photo-5499416.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    image: "/images/mosquito-fogging.jpg",
     icon: "mosquito",
     priceFrom: 849,
     duration: "45 mins",
@@ -188,8 +186,7 @@ export const SERVICES: Service[] = [
       "Eliminates rats and mice permanently. Heavy-duty peanut glue boards, bromadiolone bait boxes, and steel wool gap arrest protect wires and pantry food.",
     longDescription:
       "Rodents chew electrical wires and spoil food grains. NIPC Services maps runway routes, places locked bait stations in safe corners, and seals wall holes (Gap Arrest) so rodents never re-enter.",
-    image:
-      "https://images.pexels.com/photos/4098778/pexels-photo-4098778.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    image: "/images/rodent-control.jpg",
     icon: "rodent",
     priceFrom: 899,
     duration: "60 mins",
@@ -238,8 +235,7 @@ export const PRODUCT_SEEDS: ProductSeed[] = [
     description: "Govt. approved non-repellent active solution for woodwork and soil barriers. Dilutes into 50L ready spray.",
     price: 899,
     compareAtPrice: 1299,
-    imageUrl:
-      "https://images.pexels.com/photos/18021337/pexels-photo-18021337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    imageUrl: "/images/termite-treatment.jpg",
     badge: "Pro Grade",
     rating: 4.8,
     reviewsCount: 610,
@@ -252,8 +248,7 @@ export const PRODUCT_SEEDS: ProductSeed[] = [
     description: "Heavy-duty peanut-scented non-toxic glue boards. Traps large rats and mice without poison hazards.",
     price: 299,
     compareAtPrice: 450,
-    imageUrl:
-      "https://images.pexels.com/photos/4098778/pexels-photo-4098778.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    imageUrl: "/images/rodent-control.jpg",
     rating: 4.7,
     reviewsCount: 890,
     stock: 350,
@@ -291,8 +286,7 @@ export const PRODUCT_SEEDS: ProductSeed[] = [
     description: "For portable or thermal foggers. Powerful knockdown for residential gardens, basements and open plots.",
     price: 649,
     compareAtPrice: 899,
-    imageUrl:
-      "https://images.pexels.com/photos/5499416/pexels-photo-5499416.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    imageUrl: "/images/mosquito-fogging.jpg",
     rating: 4.6,
     reviewsCount: 310,
     stock: 95,
@@ -327,8 +321,7 @@ export const BLOG_SEEDS: BlogSeed[] = [
 **4. Swarmer wings around night lamps.** Translucent wings discarded in monsoon seasons indicate an active swarm mating in the vicinity.
 
 **Treatment Solution:** DIY sprays only drive termites deeper into the walls. NIPC Services employs high-pressure Drill-Fill-Seal chemical barrier injection that wipes out the queen and colony with an assured 7-year warranty. Contact Veerpal ji directly at 9639232701.`,
-    imageUrl:
-      "https://images.pexels.com/photos/18021337/pexels-photo-18021337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    imageUrl: "/images/termite-treatment.jpg",
     category: "Termites",
     author: "Veerpal (Owner, NIPC Services)",
     readMinutes: 5,

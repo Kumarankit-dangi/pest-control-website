@@ -359,7 +359,7 @@ export function Products() {
                       </button>
 
                       <a
-                        href={`https://wa.me/919639232701?text=Hi%20NIPC%20Services,%20I%20want%20to%20order%20${encodeURIComponent(
+                        href={`https://wa.me/919639232701?text=Hi%20Veerpal%20ji%20(NIPC%20SERVICES),%20I%20want%20to%20order%20${encodeURIComponent(
                           p.name
                         )}%20(Price:%20₹${p.price}).%20Please%20deliver.`}
                         target="_blank"
@@ -452,7 +452,7 @@ export function Products() {
               </div>
 
               <a
-                href={`https://wa.me/919639232701?text=Hi%20NIPC%20Services,%20I%20want%20to%20order%20${encodeURIComponent(
+                href={`https://wa.me/919639232701?text=Hi%20Veerpal%20ji%20(NIPC%20SERVICES),%20I%20want%20to%20order%20${encodeURIComponent(
                   quickView.name
                 )}%20(Qty:%20${qty}).`}
                 target="_blank"

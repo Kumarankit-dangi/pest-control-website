@@ -14,7 +14,7 @@ export function Hero() {
       <div className="absolute inset-0">
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
-          src="https://images.pexels.com/photos/4176541/pexels-photo-4176541.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+          src="/images/hero-technician.jpg"
           alt="NIPC Services technician performing safe herbal pest control"
           className="h-full w-full object-cover"
           fetchPriority="high"

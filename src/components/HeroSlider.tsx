@@ -68,8 +68,7 @@ const SLIDES: SlideData[] = [
     titleLine2: "Before Wood Damage.",
     description:
       "High-pressure chemical injection for wooden wardrobes, door frames and building foundations. 100% eradication with 7-year written warranty card.",
-    image:
-      "https://images.pexels.com/photos/18021337/pexels-photo-18021337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=800&w=1400",
+    image: "/images/termite-treatment.jpg",
     badgeText: "7 Years Written Warranty Card",
     offerPill: "✨ Termite Package: Instant ₹500 Off",
     tag: "Deemak Guarantee",

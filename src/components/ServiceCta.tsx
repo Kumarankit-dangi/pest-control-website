@@ -7,7 +7,7 @@ import { SITE } from "@/lib/site";
 export function ServiceCta({ service, compact = false }: { service: string; compact?: boolean }) {
   const { openQuote } = useQuote();
 
-  const waLink = `https://wa.me/919639232701?text=Hi%20NIPC%20Services,%20I%20am%20interested%20in%20${encodeURIComponent(
+  const waLink = `https://wa.me/919639232701?text=Hi%20Veerpal%20ji%20(NIPC%20SERVICES),%20I%20am%20interested%20in%20${encodeURIComponent(
     service
   )}.%20Please%20provide%20quotation%20and%20earliest%20available%20slot.`;
 

@@ -43,7 +43,7 @@ const ITEMS = [
   },
   {
     icon: Headset,
-    title: "Direct Calling Helpline: 9639232701",
+    title: `Direct Calling Helpline: ${SITE.phone}`,
     text: "Speak directly with senior pest specialists without waiting in automated queues. Instant WhatsApp support.",
     stat: "24/7",
     statLabel: "Support Line",

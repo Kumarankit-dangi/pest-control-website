@@ -151,7 +151,7 @@ export function Offers() {
                 {/* CTAs */}
                 <div className="mt-5 space-y-2">
                   <a
-                    href={`https://wa.me/919639232701?text=Hi%20NIPC%20Services,%20I%20want%20to%20claim%20the%20offer%20${o.code}%20(${encodeURIComponent(
+                    href={`https://wa.me/919639232701?text=Hi%20Veerpal%20ji%20(NIPC%20SERVICES),%20I%20want%20to%20claim%20the%20offer%20${o.code}%20(${encodeURIComponent(
                       o.title
                     )}).%20Please%20share%20details.`}
                     target="_blank"
